@@ -1,0 +1,22 @@
+{
+  "SETUP": {
+    "SMS_KEY": "",
+    "SMS_SENDER": "",
+    "WEATHER_KEY": "",
+    "WEATHER_HOST": "yahoo-weather5.p.rapidapi.com"
+  },
+  "USERS": {
+    "USER_1": {
+      "NAME": "",
+      "PHONE": "",
+      "LOCATION": "",
+      "TIME": ["9:00", "23:00"]
+    },
+    "USER_2": {
+      "NAME": "",
+      "PHONE": "",
+      "LOCATION": "",
+      "TIME": ["11:00", "22:00"]
+    }
+  }
+}
